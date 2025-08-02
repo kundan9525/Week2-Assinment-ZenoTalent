@@ -1,0 +1,6 @@
+task_name,assigned_to,tasks_per_member
+"Build NLP Engine",Alice,2
+"Deploy Chatbot",Alice,2
+"Data Collection",Bob,1
+"Frontend UI",Charlie,1
+"Sensor Integration",Diana,1
